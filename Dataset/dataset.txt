@@ -1,0 +1,3 @@
+DATASET LINK:
+Data for Expenditure Pattern Classification Feature :  https://github.com/fadel11-hub/Belajar-Github/raw/main/bank_transactions.zip
+Data for Receipt or Non-Receipt Detection Feature : https://drive.google.com/drive/folders/1SsMp7SiuLpQALJuTAxAvLf1r9DnRxpbN 
